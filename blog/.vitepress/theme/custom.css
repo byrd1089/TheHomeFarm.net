@@ -1,8 +1,0 @@
-/* :root {
-    --vp-c-brand-1: #646cff;
-    --vp-c-brand-2: #747bff;
-  } */
-
-  #VPContent > div > div.VPHero.has-image.VPHomeHero > div > div.image > div > img {
-    max-width: 500px;
-  }
