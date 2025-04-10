@@ -29,11 +29,6 @@ coverage
 
 *.tsbuildinfo
 
-# amplify
-.amplify
-amplify_outputs*
-amplifyconfiguration*
-
 #vitepress
 .vitepress/dist
 .vitepress/cache
