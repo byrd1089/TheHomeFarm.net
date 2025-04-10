@@ -4,11 +4,10 @@ layout: home
 
 hero:
   name: "The Home Farm"
-  text: "A VitePress Site"
   tagline: Home of the Young Clan
   image:
-    src: /home-farm-2.jpg
-    alt: VitePress
+    src: public/home-farm-2.jpg
+    alt: The Home Farm
 
 
 # actions:
@@ -20,11 +19,11 @@ hero:
   #     link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Memorial Day
+    details: Let's all get together at 1099
+  - title: 4th of July
+    details: We'll figure it out.
+  - title: Square Dance 2025
+    details: Save the date, Saturday Aug 9th
 ---
 
