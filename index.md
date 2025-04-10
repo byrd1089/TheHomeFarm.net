@@ -5,14 +5,19 @@ layout: home
 hero:
   name: "The Home Farm"
   text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  tagline: Home of the Young Clan
+  image:
+    src: /home-farm-2.jpg
+    alt: VitePress
+
+
+# actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
 
 features:
   - title: Feature A
