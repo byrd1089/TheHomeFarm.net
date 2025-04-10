@@ -5,7 +5,7 @@ frontend:
       commands:
         - npm run docs:build
   artifacts:
-    baseDirectory: docs/.vitepress/dist
+    baseDirectory: .vitepress/dist
   cache:
     paths:
       - .npm/**/*
