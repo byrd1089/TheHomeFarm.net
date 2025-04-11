@@ -3,20 +3,20 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "The Home Farm",
-  description: "A VitePress Site",
+  description: "Home of the Young Clan",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      // { text: 'Home', link: '/' },     
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Articles',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Memorial Day 2025', link: 'pages/2025memorialday' },
+          { text: 'July 4th 2025', link: 'pages/2025julyfourth' },
+          { text: 'Square Dance 2025', link: 'pages/2025squaredance' }
         ]
       }
     ],
