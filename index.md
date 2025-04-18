@@ -20,7 +20,7 @@ hero:
 
 features:
   - title: Memorial Day
-    details: Let's all get together at 1099
+    details: Let's all get together at 1099. Click here to sign up!
     link: pages/2025memorialday.md
   - title: 4th of July
     details: We'll figure it out
@@ -34,5 +34,3 @@ features:
 
 Where family members can grow together, support and nourish each other, and maintain family
 unity, all the while surrounded by the beauty of Van Hornesville NY.
-
-I stumbled upon an article about the 2023 Square Dance: [2023 Square Dance](https://www.allotsego.com/forever-young-the-home-farm-family-dance-goes-on/)
