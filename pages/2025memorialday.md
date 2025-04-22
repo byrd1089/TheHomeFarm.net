@@ -8,6 +8,14 @@ next:
 # Memorial Day 2025
 
 Let's celebrate Memorial Day and the Pool opening together
+
+# Who's Coming
+
+| Who           |   How Many    |  Bringing |
+| ------------- | :-----------: | ----: |
+| Connie & Ken  | 2 | Burgers & Sausages |
+| Sara Ferguson | 3 |   Sides/Appetizers |
+
 ---
 
 <div class="videoWrapper">
