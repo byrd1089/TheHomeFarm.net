@@ -9,12 +9,15 @@ next:
 
 Let's celebrate Memorial Day and the Pool opening together
 
-# Who's Coming
+# Who's Coming :partying_face:
 
 | Who           |   How Many    |  Bringing |
 | ------------- | :-----------: | ----: |
+| Jeff & Shirley Anne | 2 | BBQ |
 | Connie & Ken  | 2 | Burgers & Sausages |
 | Sara Ferguson | 3 |   Sides/Appetizers |
+| Frannie | 1 |   Pasta Salad |
+
 
 ---
 
