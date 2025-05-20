@@ -7,20 +7,15 @@ next:
 
 # Memorial Day 2025
 
-Let's celebrate Memorial Day and the Pool opening together
+Let's celebrate Memorial Day and the Pool opening together.
+
+**When**: Sunday May 25 at 3:00pm
+
+**Where**: The Byrd House, 1099 Wiltse Hill Road
 
 # Who's Coming :partying_face:
 
-| Who           |   How Many    |  Bringing |
-| ------------- | :-----------: | ----: |
-| Jeff & Shirley Anne | 2 | BBQ |
-| Connie & Ken  | 2 | Burgers & Sausages |
-| Sara Ferguson | 3 |   Sides/Appetizers |
-| Frannie | 1 |   Pasta Salad |
-
-
 ---
-
 <div class="videoWrapper">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXYKtQO-H3XgqDRPFnQgHEGSL_gwUt1xjwTDczyUgxiZs3hQ/viewform?embedded=true">Loading…</iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/18rZV4nliPmPMWCjNCw5gTwWUGGARTTZBYKASXK-haY8/edit?usp=sharing&widget=true&headers=false">loading...</iframe>
 </div>
